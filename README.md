@@ -13,4 +13,10 @@
 <!---
 jhya401/jhya401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+DB의 여왕벌, 어플리케이션 일개미 시절의 업무를 했다
+학교에서 배웠던 객체지향이란 이론일 뿐인가? 했다
+그렇게 후회스러운 과거를 보내고 보니 마치 다시 태어난 느낌이다
+객체지향은 실제할 수 잇었다.
+이룬 것은 크게 없지만 앞으로 계속 개발하고 
 --->
