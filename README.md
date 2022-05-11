@@ -3,10 +3,12 @@
 누가봐도 쉽게 이해할 수 있는 코드를 좋아합니다.
 그게 제일 어렵고, 현재도 노력하고 있습니다.^^
 ## 👀 I’m interested in ...
+소스 리팩터링, 대량 트래픽처리를 위한 프로그래밍에 관심이 있습니다.
 - 레거시 리팩터링
 - 객체지향 개발
 - Cloud Infra, MSA, Reactive Programming
 ## 🌱 I’m currently learning ...
+최근에는 아래와 같은 주제에 대해 공부하고 있습니다.
 - Cloud Infra, MSA, Reactive Programming
 ## 📫 How to reach me ...
 
